@@ -1,18 +1,63 @@
-<html>
-      <head>
-	     <title>Ryann-Devv</title>
-	      
-         <link rel="stylesheet" href="404.CSS">
-          
-      </head>
-      <body>
-	      <a id="LOGO" href="https://ryanndevv.cf"<strong>Ryann</strong> <strong style="color: #F7FA2F">DEVV</strong>.</a>
-     	    <h1>Error 404 </h1>
-	      <hr></hr> 
-	      
-	  <h2>Page Not Found </h2>
-	      <h3>This could be because the page has been deleted or moved </h3>
-	      <a id="elinka" href="https://ryanndevv.cf">Back to home page</a>
-	      <a id="elinkb" href="mailto:RyannDevv@gmail.com">Contact Us for more info</a>
-      </body>
-</html>
+  
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400;500&display=swap");
+
+* {
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #2C2C2C;
+    margin: 0;
+    font-family: "Poppins", sans-serif;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+    color: #0F1015;
+}
+
+h1 {
+  color: #fff;
+  position: absolute;
+  top:20%;
+  font-size: 90px
+}
+hr {
+    width:50%;
+    margin:0 auto;
+}
+h2 {
+ position: absolute;
+ top: 50%;
+ color: #fff;
+}
+h3 {
+ position: absolute;
+ top: 56%;
+ color: #fff;
+}
+#elinka {
+ position: absolute;
+ top: 65%;
+ color: #fff;
+   text-decoration: none
+}
+#elinkb {
+ position: absolute;
+ top: 70%;
+ color: #fff;
+   text-decoration: none
+}
+#LOGO {
+   color: #fff;
+   position: absolute;
+   top: 1%;
+  left:1%;
+  font-size: 20px;
+  text-decoration: none
+}
+#notice {
+   color: #fff;
+   position: absolute;
+   top: 92%;
+}
