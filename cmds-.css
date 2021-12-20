@@ -9,9 +9,12 @@ body {
     margin: 0;
     font-family: "Poppins", sans-serif;
     display: flex;
+    align-items: center;
+    justify-content: center;
     min-height: 100vh;
     color: #0F1015;
 }
+
 
 #BAN {
   color: #fff;
