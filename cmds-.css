@@ -22,25 +22,25 @@ body {
   top: 10%;
   font-size: 20px
 }
-h2 {
+#PURGE {
   color: #fff;
   position: absolute;
   top: 15%;
   font-size: 20px
 }
-h3 {
+#KICK {
   color: #fff;
   position: absolute;
   top: 20%;
   font-size: 20px
 }
-h4 {
+#LOCK {
   color: #fff;
   position: absolute;
   top: 25%;
   font-size: 20px
 }
-h5 {
+#MUTE {
   color: #fff;
   position: absolute;
   top: 30%;
