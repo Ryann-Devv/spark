@@ -17,86 +17,44 @@ body {
 
 h1 {
   color: #fff;
- 
-  padding: 0% 10% ; 
+  position: absolute;
+  top: 15%;
   font-size: 20px
 }
 h2 {
   color: #fff;
   position: absolute;
-  top: 25%;
+  top: 20%;
   font-size: 20px
 }
 h3 {
   color: #fff;
   position: absolute;
-  top: 30%;
+  top: 25%;
   font-size: 20px
 }
 h4 {
   color: #fff;
   position: absolute;
-  top: 35%;
+  top: 30%;
   font-size: 20px
 }
 h5 {
   color: #fff;
   position: absolute;
-  top: 40%;
+  top: 35%;
   font-size: 20px
 }
 h6 {
   color: #fff;
   position: absolute;
-  top: 45%;
+  top: 40%;
   font-size: 20px
 }
 h7 {
   color: #fff;
   position: absolute;
-  top: 50%;
-  font-size: 20px
-}
-h8 {
-  color: #fff;
-  position: absolute;
-  top: 55%;
-  font-size: 20px
-}
-h9 {
-  color: #fff;
-  position: absolute;
-  top: 60%;
-  font-size: 20px
-}
-h10 {
-  color: #fff;
-  position: absolute;
-  top: 65%;
-  font-size: 20px
-}
-h11 {
-  color: #fff;
-  position: absolute;
-  top: 70%;
-  font-size: 20px
-}
-h12 {
-  color: #fff;
-  position: absolute;
-  top: 75%;
-  font-size: 20px
-}
-h13 {
-  color: #fff;
-  position: absolute;
-  top: 80%;
-  font-size: 20px
-}
-h14 {
-  color: #fff;
-  position: absolute;
-  top: 85%;
+  top: 45%;
   font-size: 20px
 }
 hr {
