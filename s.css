@@ -100,3 +100,10 @@ hr {
   font-size: 20px;
   text-decoration: none
 }
+#BANNER {
+   color: #fff;
+   position: absolute;
+  top: 1%;
+  left: 10%;
+  
+}
