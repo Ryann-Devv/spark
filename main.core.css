@@ -18,7 +18,9 @@ body {
 #INVITE {
     position: absolute;
    color: #24a0ed;
-    
+     width: 2%;
+    height: 3%
+        
  top:35%;
     
 }
@@ -27,6 +29,8 @@ body {
     position: absolute;
    background-color: 7d7de8;
     color: 7d7de8;
+     width: 2%;
+    height: 3%
       
     
  top:30%;
