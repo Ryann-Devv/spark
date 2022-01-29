@@ -26,12 +26,7 @@ body {
 }
 #INVITEL {
    color: #fff;
-   width: 100%;
-    hight: 100%;
-  font-size: 25px;
-  
-    align-items: center;
-  text-decoration: none
+ top:50%;
 }
 
 h1 {
